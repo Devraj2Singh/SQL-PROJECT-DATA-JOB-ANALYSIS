@@ -59,7 +59,7 @@ WHERE
     AND job_location = 'Anywhere'
 ORDER BY
     salary_year_avg DESC
-LIMIT 10;
+LIMIT 5;
 
 ## 📊 Results
 
@@ -71,7 +71,7 @@ LIMIT 10;
 | Data Analyst    | Anywhere  | 190,000    |
 | Data Analyst    | Anywhere  | 175,000    |
 
-*Top 10 highest-paying remote Data Analyst roles.*
+*Top 5 highest-paying remote Data Analyst roles.*
 
 ### 🔎 Insight
 
