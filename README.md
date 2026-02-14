@@ -59,7 +59,7 @@ WHERE
     AND job_location = 'Anywhere'
 ORDER BY
     salary_year_avg DESC
-LIMIT 5;
+LIMIT 10;
 
 ## 📊 Results
 
